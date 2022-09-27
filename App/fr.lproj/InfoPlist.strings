@@ -1,0 +1,23 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Glucose Direct";
+
+/* Bundle name */
+"CFBundleName" = "Glucose Direct";
+
+/* Privacy - NFC Scan Usage Description */
+"NFCReaderUsageDescription" = "La fonction NFC est nécessaire pour lire tous les paramètres de connexion avant une connexion Bluetooth.";
+
+/* Privacy - Bluetooth Always Usage Description */
+"NSBluetoothAlwaysUsageDescription" = "La fonction Bluetooth est nécessaire pour se connecter aux appareils pris en charge.";
+
+/* Privacy - Bluetooth Peripheral Usage Description */
+"NSBluetoothPeripheralUsageDescription" = "La fonction Bluetooth est nécessaire pour se connecter aux appareils pris en charge.";
+
+/* Privacy - Calendars Usage Description */
+"NSCalendarsUsageDescription" = "L'accès au calendrier est requis pour afficher les valeurs de glucose à jour sur l'Apple Watch.";
+
+/* Privacy - Health Share Usage Description */
+"NSHealthShareUsageDescription" = "L'accès à Apple Santé est requis si les données de glucose doivent être exportées.";
+
+/* Privacy - Health Update Usage Description */
+"NSHealthUpdateUsageDescription" = "L'accès à Apple Santé est requis si les données de glucose doivent être exportées.";
